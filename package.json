@@ -1,0 +1,22 @@
+{
+  "name": "jest-test-specs",
+  "version": "1.0.0",
+  "description": "for testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanki4489/Jest-test-specs.git"
+  },
+  "author": "Sankalp Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanki4489/Jest-test-specs/issues"
+  },
+  "homepage": "https://github.com/sanki4489/Jest-test-specs#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
